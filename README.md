@@ -2,6 +2,7 @@
 
 ![Latest release](https://img.shields.io/github/v/release/solarlabsteam/cosmos-exporter)
 [![Actions Status](https://github.com/solarlabsteam/cosmos-exporter/workflows/test/badge.svg)](https://github.com/solarlabsteam/cosmos-exporter/actions)
+
 This project is forked from [solarlabsteam/cosmos-exporter](https://github.com/solarlabsteam/cosmos-exporter) with extra container release and removes heavy requests. Make this exporter more focused on operating purposes for system operators.
 
 cosmos-exporter is a Prometheus scraper that fetches the data from a full node of a Cosmos-based blockchain via gRPC.
